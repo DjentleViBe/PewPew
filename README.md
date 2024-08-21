@@ -22,7 +22,7 @@ Note - Only 32 bit version is supported on Windows OS for the moment.
 ## Features
 ![Screenshot](banner.png)
 ### PRESET LIST : 
-Shape of the envelope that the MIDI follows. Custom shape can be modleled using sliders Y0, X1, Y1, X2, Y2, Y3.
+Shape of the envelope that the MIDI follows. Custom shape can be modleled using sliders `Y0`, `X1`, `Y1`, `X2`, `Y2`, `Y3`.
 ### BPM value :
 Rate of MIDI note change
 ### Number of MIDI notes :
