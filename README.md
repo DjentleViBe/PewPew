@@ -36,7 +36,7 @@ Level in dB the input signal beyong which to trigger envelope.
 + Trigger count - Total number of times to run the envelope
 
 
-[![Instagram Logo](video.png)](https://www.instagram.com/reel/C-6usdUqhoq/?igsh=ZWVpMWJhNDMwNTc4)
+[![Instagram Logo](Video.png)](https://www.instagram.com/reel/C-6usdUqhoq/?igsh=ZWVpMWJhNDMwNTc4)
 _Patch in action with Neural DSP Archetype Gojira X and Cubase_
 
 ### Source code
